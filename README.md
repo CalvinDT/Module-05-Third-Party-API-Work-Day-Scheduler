@@ -1,7 +1,7 @@
 # 05-Third-Party-APIs-Work-Day-Scheduler
  
 ## Link to deployed application
-
+ https://calvindt.github.io/Module-05-Third-Party-API-Work-Day-Scheduler/
 
 ## Description 
 

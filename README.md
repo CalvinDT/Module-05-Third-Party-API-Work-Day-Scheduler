@@ -9,7 +9,7 @@ This application uses jquery, bootstrap, and moment.js to allow you to plan out 
 
 ## Usage 
 
-Simply click on the textarea of the timeblock you want to alter and type in your schedule for the hour. When you are done, click the save icon and everything you typed for the timeblock will be saved in local storage for later use.
+Simply click on the text area of the timeblock you want to alter and type in your schedule for the hour. When you are done, click the save icon and everything you typed for the timeblock will be saved in local storage for later use.
 
 ## Technology Used
 
